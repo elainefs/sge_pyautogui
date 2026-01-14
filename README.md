@@ -25,10 +25,9 @@ O fluxo do projeto funciona da seguinte forma:
 
 <details>
 <summary>Clique para visualizar a automação em execução</summary>
- <video width="520" height="340" controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
+
+[https://github.com/user-attachments/assets/c1d367f0-91c1-45eb-ae8e-57c9d4772fa1](https://github.com/user-attachments/assets/c1d367f0-91c1-45eb-ae8e-57c9d4772fa1)
+
 </details>
 
 ## 🛠️ Tecnologias
@@ -37,7 +36,7 @@ O fluxo do projeto funciona da seguinte forma:
 - Pandas 2.3
 - PyAutoGUI 0.9
 
-## 💻️ Scripts:
+## 💻️ Scripts
 
 `automation.py`: Script principal com a lógica de loop e cadastro.
 
